@@ -1,0 +1,82 @@
+---
+Chapter: [D]
+Pages: [121–130]
+Title: [Digitale Informationen auf DNA speichern]
+Author: [Robert N. Grass]
+Date: [24. November 2014]
+Keywords: [DNA, Digitale Daten, Biokonservierung]
+---
+
+# Digitale Informationen auf DNA speichern,
+# Robert N. Grass,
+# 24. November 2014
+### ↙ (D.–––.122)
+<span style="font-style: italic;">Abstract: Auf Papier gedruckte oder auf Mikrofilm projizierte Information kann mehr als 500 Jahre überdauern. Die Speicherung von digitaler Information über Zeiträume über 50 Jahre stellt hingegen eine große Herausforderung dar. Hier zeigen wir, dass digitale Information auf DNA gespeichert werden kann und auch nach wesentlich längeren Zeiträumen wieder fehlerfrei auslesbar ist. Um eine Wiederherstellung der gespeicherten Information zu gewährleisten, wurde DNA in eine anorganische Matrix eingeschlossen. Zusätzlich dazu wurden fehlerkorrigierende Codes verwendet, um während der Lagerung entstehende Fehler zu beheben. Hierfür codierten wir 83 Kilobytes an Information in 4991 DNA-Segmente, die jeweils 158 Nukleotide lang waren und in einer SiO2-Matrix eingeschlossen wurden. Beschleunigte Alterungsprozesse wurden simuliert, um die Zerfallskinetik der DNA zu untersuchen.</span>
+
+[[(D.116.–––) DNA unter Elektronenmikroskop, Unbekannt, 22. März 2007.png|← (D.121.–––) DNA unter Elektronenmikroskop, Unbekannt, 22. März 2007]]
+
+<span style="font-style: italic;">Es zeigte sich, dass die Daten in DNA unter verschiedensten Bedingungen Jahrhunderte lang archiviert werden können. Die ursprüngliche Information konnte selbst nach einwöchiger Lagerung bei 708C noch fehlerfrei wiederhergestellt werden. Dies ist thermisch äquivalent zu einer Lagerung in Zentraleuropa über einem Zeitraum von ca. 2000 Jahren.</span>
+&nbsp;
+Prähistorische Informationen in der Form von Höhlenmalereien, alte Inschriften, Gravuren in Gold oder mittelalterliche Texte stellen wichtige Zeugnisse unserer Vergangenheit dar. Ein Beispiel ist das Palimpsest des Archimedes aus dem zehnten Jahrhundert, das die einzig bekannte Kopie der „Methodenlehre“ beinhaltet und einen Meilenstein in der Entwicklung der Geometrie und modernen Algebra darstellt. Dieses Buch überdauerte mehr als 1000 Jahre und wurde 1998 auf einen Wert von mehr als zwei Millionen USD geschätzt. Angesichts dieses Wertes scheint es eher überraschend, dass derzeitig nur wenige Projekte zur Entwicklung von langlebigen Speichern für digitale Daten vorhanden sind (z.B. MDisc, Syylex). Des Weiteren ist die Halbwertszeit von Informationen seit der Umstellung von analogen auf digitale Speichermedien drastisch gesunken.<sup>[1]</sup> </span>
+&nbsp;
+Herkömmliche Speichermedien, wie z.B. optische oder magnetische Datenträger sind für die Langzeitspeicherung von Daten (>50 Jahre) nicht zuverlässig genug.<sup>[2]</sup> Zudem benötigt die Entwicklung besserer Datenträger lange Testphasen, die die aktuellen Produktentwicklungszyklen bei weitem überschreiten. DNA ist das einzige Speichermedium, für das echte Langzeitdaten aus der Archäologie zur Verfügung stehen. Kürzlich wurde jeweils 300 000 Jahre alte mitochondriale DNA von Bären und Menschen sequenziert.<sup>[3]</sup> Zudem findet DNA Verwendung als Codierungssprache in den Bereichen der Forensik,<sup>[4]</sup> Produktmarkierung<sup>[5]</sup> und im DNA-Computing.<sup>[6]</sup> Folglich wurden bereits mehrere Methoden entwickelt, um Informationen in DNA zu speichern.<sup>[4]</sup> Bisherige Herangehensweisen sind jedoch nicht zuverlässig, da sie mit entstehenden Fehlern nicht umgehen können. Des Weiteren schlagen sie keine (physikalische) Lösung zur Lagerung von DNA vor, um die Stabilit  der Informationen über viele Jahre zu gewährleisten.
+&nbsp;
+Zur Bewältigung dieser Probleme kombinierten wir ein fehlerkorrigierendes Informations-Codierungs-Schema mit einer bereits etablierten Methode zur Lagerung von DNA in „synthetischen Fossilien“ (Schema 1). 
+
+[[(D.118.–––) (De)- Codierung digitaler Informationen auf dem DNA-Strang.jpg|← (D.123.–––) (De)-Codierung digitaler Informationen auf dem DNA-Strang]]
+
+Die dazugehörigen Experimente zeigen, dass nur durch die Kombination der beiden Konzepte Informationen selbst nach einer Millionen Jahre langer Lagerung in der „Svalbard Global Seed Vault“ (bei –18°C) vollständig wiederhergestellt werden könnten.
+&nbsp;
+Da die Synthese und Sequenzierung von langen DNA-Strängen technisch nur schwer möglich ist, werden die Daten auf viele kurze Segmente geschrieben. Diese können nicht geometrisch angeordnet werden, wodurch sich das Schreiben und Lesen von Daten auf DNA von herkömmlichen Speichermedien wie z.B. Festplatten unterscheidet. Zudem treten beim Schreiben, Lagern und Ablesen (Sequenzieren) der DNA Fehler auf. Einzelne Basen sind fehlerhaft, zudem gehen ganze Sequenzen verloren. In klassischen Speichermedien werden fehlerkorrigierende Codes verwendet, mit denen die Information durch das Hinzufügen von Redundanz geschätzt wird. Die Redundanz wird so gewählt, dass alle Fehler, die während der Benutzung oder Lagerung der Daten auftreten, korrigiert werden können. Aufgrund der spezifischen Anforderungen an die Lagerung von DNA mussten bereits existierende Algorithmen entsprechend modifiziert und angepasst werden: Einzelne Sequenzen wurden mit Indizes versehen und mit zwei unabhängigen fehlerkorrigierenden (Reed-Solomon) Codes verknüpft. (Abbildung 1; siehe Hintergrundinformationen für Code-Design und Parameterwahl). 
+
+[[(D.120.–––) Detailinformationen der Translation eines deutschen Texts.jpg|→ (D.125.–––) Detailinformationen der Translation eines deutschen Texts]]
+
+Der entwickelte Algorithmus wurde physikalisch getestet, indem wir den Text aus zwei alten Dokumenten auf DNA speicherten: Der Schweizer Bundesbrief von 1291 und die englische Übersetzung von „Archimedesʼ Methodenlehre von Mechanischen Sätzen“. Der vollständige (nicht komprimierte) Text besitzt eine Größe von 83 Kilobytes und wurde wie in Abbildung 1 gezeigt codiert. Dadurch entstanden 4991 Sequenzen zu je 117 Nukleotiden, an die zusätzlich Primer angebracht wurden (Totallänge von 158 nt), um eine schnelle und indizierte Vorbereitung der Sequenzdatenbank für die Sequenzierung zu ermöglichen. Die einzelnen Sequenzen wurden mithilfe von Mikroarray-Technologie (CustomArray)<sup>[6]</sup> synthetisiert, anschließend durch eine benutzerdefinierte PCR-Methode (Polymerasekettenreaktion) für das Sequenzieren vorbereitet und unter Verwendung der Illumina-MiSeq-Plattform abgelesen (siehe Hintergrundinformationen für experimentelle Details). Beim Ablesen der Sequenzen musste der innere Code durchschnittlich 0.7 Fehler pro Sequenz ausgleichen.
+&nbsp;
+Der äußere Code musste zusätzlich einen Verlust von 0.3% der gesamten Sequenzen kompensieren und 0.4% der Sequenzen korrigieren. Dies ermöglichte eine vollständige und fehlerfreie Rückgewinnung der ursprünglich gespeicherten Information. 
+&nbsp;
+Dieses Experiment zeigt, dass digitale Information zuverlässig auf DNA gespeichert werden kann. Unser nächstes Experiment sollte zeigen, dass DNA tatsächlich für extrem lange Zeiträume als Speicher verwendet werden kann. Dies ist nicht selbstverständlich, da DNA in Lösung innerhalb einiger Jahre zerfällt.<sup>[10]</sup> Um herauszufinden, ob gelagerte DNA im festen Zustand stabiler ist,<sup>[11]</sup> testeten wir die Stabilität des Oligo-Pools mit 4991 Elementen anhand von drei zuvor etablierten Trockenlagerungstechnologien in beschleunigten Alterungstests (Abbildung 2). 
+
+[[(D.122.–––) Halbwertszeit von in Siliciumdioxid eingeschlossener DNA.jpg|→ (D.127.–––) Halbwertszeit von in Siliciumdioxid eingeschlossener DNA]]
+
+Die Lagerungstechnologien bestehen aus einem imprägnierten Filterpapier,<sup>[9]</sup> einem Biopolymer, das den glasartigen Zustand der DNA in Samen und Sporen nachahmt,<sup>[10]</sup> und einem „synthetischen Silicat-Fossil“, das auf einer in unserer Gruppe entwickelten Methode basiert.<sup>[11]</sup> Verglichen mit der Lagerung von trockener DNA ohne zusätzliches Hilfsmittel verlängern alle drei Methoden die Haltbarkeit der DNA beträchtlich. Durch die Temperaturabhängigkeit der Zerfallsgeschwindigkeit und unter der Annahme einer Zerfallskinetik erster Ordnung konnten Arrhenius-Aktivierungsenergien (Ea) berechnet werden, die für alle drei Lagerungsmethoden annähernd gleich sind (155±2 kJ mol–1; siehe Hintergrundinformationen für Details). Die Aktivierungsenergie liegt dabei im Bereich der vor kurzem publizierten Einzelstrangbruch-Kinetik von DNA in trockener Lagerung (Ea=158 kJ mol–1)<sup>[8]</sup> und unterscheidet sich beträchtlich von der bisher bekannten Zersetzungskinetik von DNAin Lösung (105–120 kJmol–1).<sup>[7]</sup> Obwohl die Aktivierungsenergien f  die drei Aufbewahrungsmethoden nahezu identisch sind, unterscheiden sich die einzelnen Zerfallsgeschwindigkeiten deutlich. Die Zerfallskinetik von getrockneter DNA in Abhängigkeit von der Luftfeuchtigkeit kann folgendermaßen ausgedrückt werden:
+&nbsp;
+&nbsp;
+##### ![(D.–––.122) Formel der Zerfallsgenetik](https://i.imgur.com/vy3yWPT.png)
+
+&nbsp;
+wobei der beobachtete Faktor A den präexponentiellen Arrhenius- Faktor k0 und den Effekt des Wassers (cH2O)n beschreibt. Basierend auf den identischen Aktivierungsenergien könnte man daraus schließen, dass sich die DNA in allen Lagerungsmatrizen nach demselben Einzelstrangbruchmechanismus zersetzt<sup>[11, 16]</sup> und sich die einzelnen Zerfallsgeschwindigkeiten nur aufgrund der Lagerungstemperatur und der Wasserkonzentration in der unmittelbaren Nähe der DNA-Moleküle unterscheiden. (Es lässt sich vermuten, dass sich Wasser an die DNA-Moleküle innerhalb der Biopolymere anlagert, und selbst wenn DNA in Siliciumdioxid eingeschlossen ist, wird sie noch mit Wassermolekülen assoziiert sein.) Die Daten in Abbildung 2 zeigen deutlich, dass die anorganische Lagerungsmethode (DNA in Siliciumdioxid) die beste DNA-Konservierungsmethode darstellt, da sie die geringste lokale Wasserkonzentration aufweist. Eine anorganische Schicht trennt zudem die DNA-Moleküle von der Umgebung, und dadurch wird der Zerfall nicht von der Luftfeuchtigkeit der Lagerungsumgebung beeinflusst. Für eine Langzeitlagerung ist dies von großer Bedeutung, da Lagerstätten ohne Feuchtigkeit schwer aufrechtzuerhalten sind. Im Gegensatz dazu können alterungshemmende Faktoren wie Kälte (beispielsweise Permafrost) und der Ausschluss von Licht für längere Zeit ohne Energieaufwand verwirklicht werden. Das Lagerungsverfahren in Siliciumdioxid weist außerdem einen außergewöhnlichen Schutz der DNA gegenüber Oxidation auf (siehe Behandlung mit reaktiven Sauerstoffspezies in den Hintergrundinformationen). Ein weiterer Schutz gegenüber Licht kann durch den Einsatz einer Titandioxid-Schicht erzielt werden.<sup>[17]</sup>
+&nbsp;
+In fossilen Knochen hat DNA die größte Überlebenschance, wenn sie in Apatit/Kollagen-Strukturen<sup>[13]</sup> oder in Kristallaggregaten<sup>[14]</sup> eingeschlossen ist. Diese Strukturen schützen die DNA vor der Umwelt und Feuchtigkeit, ähnlich zur Einkapselung der DNA im anorganischen Siliciumdioxid, welche wir hier verwendet haben.Werden die in Abbildung 2 gezeigten Zerfallsdaten der DNA für tiefere Temperaturen extrapoliert, stimmen sie sehr gut mit der Zerfallsgeschwindigkeit von Moa-Fossilien überein, welche Allentoft et al. anhand von bis zu 8000 Jahren alten Knochen untersucht haben.<sup>[12]</sup> Des Weitern stimmen die Daten auch mit den kürzlich bestimmten Zerfallsdaten von trocken gelagerter DNA überein (32 Wochen Lagerung; Punkt 4 in Bonnet et al.<sup>[8]</sup>). Diese Stabilität erklärt zudem den Erfolg der Sequenzierung von DNA aus 300 000 Jahre alten Knochenproben (siehe Diskussion in den Hintergrundinformationen). Daraus wird ersichtlich, dass in beiden Fällen (DNA in Knochen und DNA in Siliciumdioxid) der Zerfall an Informationen derselben Kinetik folgt. Die beschleunigten Alterungstests von DNA in Siliciumdioxid ahmen dabei den langzeitigen Zerfall von DNA in fossilen Knochen nach.
+&nbsp;
+Im Folgenden wollen wir zeigen, dass in synthetischer DNA gespeicherte Information selbst nach beträchtlicher thermischer Behandlung immer noch korrekt ausgelesen werden kann. Hierfür wurde DNA in Siliciumdioxid für eine halbe sowie für eine ganze Woche bei 70 °C gelagert und anschließend sequenziert. Die Daten wurden dann nach dem vorherigen Schema (Abbildung 1) rekonstruiert. Die zwei erhaltenen Datenpunkte entsprechen dem Zerfall der DNA zu ca. einer bzw. vier Halbwertszeiten. Auch wenn in diesen thermisch behandelten Proben beide (innere und äußere) fehlerkorrigierende Codes signifikant mehr Fehler korrigieren mussten als in den thermisch unbehandelten Proben, konnte in beiden Fällen die Information ohne Fehler wiederhergestellt werden (Abbildung 3).
+
+[[(D.124.–––) Statistik zur Entschlüsselung und Fehlerkorrektur.jpg|← (D.129.–––) Statistik zur Entschlüsselung und Fehlerkorrektur]]
+
+Die Möglichkeit, Ursprungsdaten aus DNA noch nach 4 Halbwertszeiten fehlerfrei auslesen zu können, entspricht nach Abbildung 2c der Lagerung von DNA in Zürich (9.4 °C) für 2000 Jahre oder für den am kältesten, ganzjährlich zugänglichen Punkt in der Schweiz (Jungfraujoch, 3471 m.ü.M) bis zu 100 000 Jahre. Die Daten sagen zudem voraus, dass digitale Information in eingekapselter DNA in Siliciumdioxid für mehr als 2 Millionen Jahre im Global Seed Vault bei –18 °C gespeichert werden kann.
+&nbsp;
+[1] a) M. Hilbert, P. Lopez, _Science_ 2011, 332, 60; b) P. Conway, _Libr. Q._ 2010, _80_, 61.
+[2] S. Shah, J. G. Elerath, _Annu. Reliab. Maintainability Symp. Proc._ 2004, 163.
+[3] a) J. Dabney, et al., _Proc. Natl. Acad. Sci._ USA 2013, _110_, 15758; 
+b) M. Meyer, et al., _Nature_ 2014, _505_, 403.
+[4] J. M. Oh, D. H. Park, J. H. Choy, _Chem. Soc. Rev._ 2011, _40_, 583.
+[5] D. H. Park, C. J. Han, Y. G. Shul, J. H. Choy, _Sci. Rep._ 2014, _4_, 4879.
+[6] a) Z. Ezziane, _Nanotechnology_ 2006, _17_, R27; b) Y. Benenson, _Nat. Rev. Genet._ 2012, _13_, 455.
+[7] a) C. Bancroft, T. Bowler, B. Bloom, C. T. Clelland, _Science_ 2001, _293_, 1763; b) G. M. Church, Y. Gao, S. Kosuri, _Science_ 2012, _337_, 1628; c) N. Goldman, P. Bertone, S. Y. Chen, C. Dessimoz, E. M. LeProust, B. Sipos, E. Birney, _Nature_ 2013, _494_, 77; d) J. Davis, _Art J._ 1996, _55_, 70.
+[8] I. S. Reed, G. Solomon, _J. Soc. Ind. Appl. Math._ 1960, _8_, 300.
+[9] S. Kosuri, G. M. Church, _Nat. Methods_ 2014, _11_, 499.
+[10] T. Lindahl, B. Nyberg, _Biochemistry_ 1972, _11_, 3610.
+[11] J. Bonnet, M. Colotte, D. Coudy, V. Couallier, J. Portier, B. Morin, S. Tuffet, _Nucleic Acids Res._ 2010, _38_, 1531.
+[12] L. A. Burgoyne, US Patent 6322983B, 2001.
+[13] E. Wan, M. Akana, J. Pons, J. Chen, S. Musone, P. Y. Kwok, W. Liao, _Curr. Issues Mol. Biol._ 2010, _12_, 135.
+[14] a) D. Paunescu, R. Fuhrer, R. N. Grass, _Angew. Chem. Int. Ed._ 2013, _52_, 4269; _Angew. Chem._ 2013, _125_, 4364; b) D. Paunescu, M. Puddu, J. O. B. Soellner, P. R. Stoessel, R. N. Grass, _Nat. Protoc._ 2013, _8_, 2440.
+[15] M. E. Allentoft, et al., _Proc. R. Soc. London Ser. B_ 2012, _279_, 4724.
+[16] T. Lindahl, _Nature_ 1993, _362_, 709.
+[17] D. Paunescu, C. A. Mora, M. Puddu, F. Krumeich, R. N. Grass, _J. Mater. Chem. B_ 2014, _2_, 8504.
+[18] P. F. Campos, O. E. Craig, G. Turner-Walker, E. Peacock, E. Willerslev, M. T. P. Gilbert, _Ann. Anat._ 2012, _194_, 7.
+[19] M. Salamon, N. Tuross, B. Arensburg, S. Weiner, Proc. _Natl. Acad. Sci. USA_ 2005, _102_, 13783.
+[20] C. I. Smith, A. T. Chamberlain, M. S. Riley, C. Stringer, M. J. Collins, _J. Hum. Evol._ 2003, _45_, 203.
+&nbsp;
+[[(D.–––.127) CLONAID™ Pioneers in Human Cloning, Rael, 2006|→ weiter]]
+[[(C.–––.105) Einführung des neuen Bio-iPass, maha@elitas.com, 24. Oktober 2005|← zurück]]
+###### #D-Konservierung-des-Mensch
