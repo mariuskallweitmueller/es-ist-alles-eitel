@@ -1,9 +1,9 @@
 ---
 Chapter: [B]
-Pages: [53–60]
+Pages: [50–57]
 Title: [Lunar Orbiter Image Recovery Project (LOIRP)]
 Author: [Keith Cowing]
-Date: [August 2008]
+Date: [Aug. 2008]
 Link: [https://moonviews.com/?p=75, https://moonviews.com/?p=74, https://moonviews.com/?p=72]
 Keywords: [Space, Lunar Orbiter, Mondlandung, Weltallfotografie, Medienverfall]
 ---
@@ -11,12 +11,12 @@ Keywords: [Space, Lunar Orbiter, Mondlandung, Weltallfotografie, Medienverfall]
 # Lunar Orbiter Image Recovery Project (LOIRP),
 # Keith Cowing,
 # August 2008
-### ↓ (B.–––.–54)
+### ↓ (B.–––.–51)
 AUGUST 12, 2008 BY KCOWING
 **12 August 2008 LOIRP Status**
 &nbsp;
 After being away for a week and coming back I am very happy to report our current progress. The guys have done a marvelous job in turning the McDonald’s into a working laboratory. The fake planter in the middle of the room has now been turned into a nice working table for the testing of the hardware on the drives. They have also put together the wiring for power in the area in a manner that is safe and efficient for working. Pictures follow of this. 
-[[(B.–50.–––) Lagerung der aufgenommenen 70mm Magnetbänder, Steve Jurvetson, McMoon, Mountain View, 20.09.2008.jpg|← (B.–53.–––) Lagerung der aufgenommenen 70mm Magnetbänder, Steve Jurvetson, McMoon, Mountain View, 20.09.2008]]
+[[(B.–50.–––) Lagerraum des "McMoon", Steve Jurvetson, Mountain View, 20.09.2008.jpg|← (B.–50.–––) Lagerraum des "McMoon", Steve Jurvetson, Mountain View, 20.09.2008]]
 
 On the technical side, a lot of progress was made there as well. We have the second drive brought to functional status. Since we don’t have the money to replace all the parts we are not going much further but there are things that we can do with the drive to test parts and subsystems while the primary drive is being optimized for full operation. I am including an abbreviated video here but a longer one will be on the Facebook page of both drives operating at once.
 
@@ -37,7 +37,7 @@ On the good news front, $50k of additional funding has been provided through Dou
 
 However, this $50k brings its challenges. The head refurbishing company demands a check for 2/3rds of the cost of the tooling to begin work. Due to the way that NASA procurement works, this means that we would have a 30 day delay before being able to move forward with the head refurb. This is unacceptable to me so I made a command decision to cancel the purchase of the high end MacIntosh computer and we will keep the existing interim computer and do the initial image processing with it.
 
-[[(A.–––.–19) Worldwide Me-the-Media Mars Scoop, 2. Juni 2008|→ (A.–––.–22) Worldwide Me-the-Media Mars Scoop, Jaap Bloem, 2. Juni 2008]]
+[[(A.–––.–19) Worldwide Me-the-Media Mars Scoop, Jaap Bloem, 2. Juni 2008|→ (A.–––.–19) Worldwide Me-the-Media Mars Scoop, Jaap Bloem, 2. Juni 2008]]
 
 This is an easy decision to make, which saves us $10k of expenditure that we can use to pay the head refurb company right away and get reimbursed when the NASA money comes in for this task. Our image processing may happen slower but since our goal at this time is only a few images, this is not a big sacrifice. It will be ok for our other image processing as well for now. We can order the new computer after we are successful in getting our images and moving into production (should funding become available). The interim computer can then become the secondary computer to run the second drive. The head refurb is by far the highest priority
 
@@ -47,7 +47,7 @@ We have started the process of refurbishing the mechanical systems of the primar
 
 We have also shipped out additional rubber parts to redco in Nevada for refurbishing/replacement. One of these is easy, as it is the rubber pads on the tape reel assemblies that the tapes rest against. The second is not so easy, as we have to get the rubber interior surface of a seamless nylon set of belts that run the motors refurbished. We sent the belts off of the parts donor machines to get them refurbed first and then when we put the new stuff on, we will send the other belts to be refurbed. This is a major concern but doable as these belts are also critical to the proper operation of the entire servo mechanical system.
 
-We have also had success the past week (after Fedex ground’s inability to find our building for four days) in obtaining a lot of schematics and technical data for the FR-900 drives. [[(B.–54.–––) Ampex FR-900 Magnetbandlaufwerk, Steve Jurvetson, McMoon, Mountain View, 20.09.2008.jpg|→ (B.–57.–––) Ampex FR-900 Magnetbandlaufwerk, Steve Jurvetson, McMoon, Mountain View, 20.09.2008]]
+We have also had success the past week (after Fedex ground’s inability to find our building for four days) in obtaining a lot of schematics and technical data for the FR-900 drives. [[(B.–54.–––) 1 von 2 Ampex FR-900 Magnetbandlaufwerken, Steve Jurvetson, McMoon, MountainView, 20.09.2008.jpg|← (B.–54.–––) 1 von 2 Ampex FR-900 Magnetbandlaufwerken, Steve Jurvetson, McMoon, MountainView, 20.09.2008]]
 
 This came from a labyrinth of contacts that led us finally to the retired head of Ampex’s field engineering force! He happens to have most of the information that we need on the drives in terms of schematics, parts lists, and other details. We are still missing some procedures but we are much closer to having everything that we need and worst case we can get the drive completely back to specifications with what we have. This is truly an adventure in technoarcheology in finding this data. One wonders how different our civilization would be today if we had all of the documents related to the masterful feats of Greek mechanical engineering and Roman civil engineering today. Just think of the problems that NASA is having in recreating a 40 year old technology to return to the Moon!
 
@@ -55,7 +55,7 @@ We have also been testing in detail the 16 heads that we have. It looks like tha
 
 We have also visited the NASA Ames surplus and have found some useful test equipment, including a rig that allows us to splice tape. We found some 19″ racks for test equipment as well and some oscilliscopes. 
 
-[[(B.–52.–––) Innenansicht der LOIRP Einrichtung, Steve Jurvetson, McMoon, Mountain View, 20.09.2008.jpg|→ (B.–55.–––) Innenansicht der LOIRP Einrichtung, Steve Jurvetson, McMoon, Mountain View, 20.09.2008]]
+[[(B.–52.–––) Innenansicht der LOIRP Anlage, Steve Jurvetson, Mountain View, 20.09.2008.jpg|→ (B.–52.–––) Innenansicht der LOIRP Anlage, Steve Jurvetson, Mountain View, 20.09.2008]]
 
 We also picked up an older MacIntosh to use as a server for the printer and our local kludged internet connection so it has been a good week on the scrounging front. Another device that we found is a reader for microfilm. We will use it to compare the images that I have on my microfilm of the Moon to guarantee a match for the analog data vs the film.
 
@@ -66,18 +66,16 @@ Conclusion
 So basically we are moving forward and working through our challenges! Lots and lots of work in a detailed manner that is necessary to bring the drives back to full operational status and get them back into their original specifications.
 
 Pictures follow.
+[[(B.–56.–––) Composite Aufnahme des Lunar Reconnaissance Orbiter, NASA, Bildgröße. 783MB, 18. Dezember 2015.jpeg|← (B.–56.–––) Composite Aufnahme des Lunar Reconnaissance Orbiter, NASA, Bildgröße: 783MB, 18. Dezember 2015]]
+AUGUST 19, 2008 BY KCOWING
+ **19 August 2008 LOIRP Status**
 &nbsp;
-##### AUGUST 19, 2008 BY KCOWING
-##### **19 August 2008 LOIRP Status**
+Keith Cowing: We have a milestone to report tonight. We put a real LO-II tape on the drive with the known good head and was able to get audio and the test video patterns off the machine. We did not dare go far enough yet to get the LO image but here for your listening pleasure and verification of milestone, is a voice that has not been heard since November 30, 1966. Sorry but if you have a PC you may not be able to hear it but on the Mac it is great! \[[Audio file](http://images.spaceref.com/news/2008/loirptest.m4a)\] Also a pic to go along with it.
+We are closing in on the prize.
+ \[Audio files of voice track: [PC](http://images.spaceref.com/news/2008/loirptest.wav) (.wav) [Mac](http://images.spaceref.com/news/2008/loirptest.m4a)
+“30 November 1966”
+Here is a [MP3 version](http://images.spaceref.com/news/2008/loirptest.mp3) (thanks Ken!)
 &nbsp;
-##### Keith Cowing: We have a milestone to report tonight. We put a real LO-II tape on the drive with the known good head and was able to get audio and the test video patterns off the machine. We did not dare go far enough yet to get the LO image but here for your listening pleasure and verification of milestone, is a voice that has not been heard since November 30, 1966. Sorry but if you have a PC you may not be able to hear it but on the Mac it is great! \[Audio file\] Also a pic to go along with it.
-##### We are closing in on the prize.
-##### \[Audio files of voice track: PC (.wav) Mac
-##### “30 November 1966”
-##### Here is a MP3 version (thanks Ken!)
-&nbsp;
-[[(B.–56.–––) Composite Aufnahme der Erde des Lunar Reconnaissance Orbiter, NASA, Bildgröße 783MB, 18.12.2015.jpeg|← (B.–59.–––) Composite Aufnahme der Erde des Lunar Reconnaissance Orbiter, NASA, Bildgröße: 783MB, 18.12.2015]]
-&nbsp;
-[[(B.–––.–59) USENET netnews for everyone, Jenny A. Fristrup, 1. Juli 1994|→ weiter]]
+[[(B.–––.–59) USENET – netnews for everyone, Jenny A. Fristrup, 1. Juli 1994|→ weiter]]
 [[(A.–––.–39) Luminous Airplanes, Paul La Farge, 2008|← zurück]]
 ###### #B-Gemeinschaft-des-Interesse 

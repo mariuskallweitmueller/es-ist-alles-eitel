@@ -1,20 +1,19 @@
 ---
 Chapter: [C]
-Pages: [109–118]
+Pages: [104–113]
 Title: [Die Welt von morgen: iPass]
 Author: [maha@elitas.com]
-Date: [2005]
+Date: [24.10.2005]
 Link: [https://ds.ccc.de/pdfs/ds087.pdf]
 Keywords: [Biometrische Passbilder, Überwachungsstaat, Chaos Computer Club]
 ---
 
-# Die Welt von morgen: iPass,
-# maha@elitas.com,
-# 2005
-### ↓ (C.–––.110)
+# Einführung des neuen Bio-iPass,
+# <a style="font-family: sans-serif; cursor: alias;">maha@elitas.com</a>,
+# 24. Oktober 2005
+### ↓ (C.–––.105)
 Wir drucken hier das Interview ab, das unsere Korrespondentin Cornelia C. Cortschloss mit der Bundesministerin für Inneres, Justiz und Heimatschutz Gertrud Backstein über die am 1. Juni 2017 bevorstehende Einführung des neuen Bio-iPasses führte.
-&nbsp;
-[[(C.104.–––) Cover des wissenschaftlichen Fachblatts "Die Datenschleuder", Chaos Computer Club, Bd. 87, 2005.png|← (C.109.–––) Cover des wissenschaftlichen Fachblatts "Die Datenschleuder", Chaos Computer Club, Bd. 87, 2005]]
+[[(C.104.–––) Sonderausgabe zur Vorstellung des deutschen ePass, Chaos Computer Club, Bd. 87, 24. Oktober 2005.png|← (C.104.–––) Sonderausgabe zur Vorstellung des deutschen ePass, Chaos Computer Club, Bd. 87, 24. Oktober 2005]]
 &nbsp;
 #### <span style="font-style: italic;">CCC: Frau Backstein, in wenigen Tagen, nämlich am 1. Juni 2017, soll der neue iPass der zweiten Generation, der Bio-iPass, obligatorisch eingeführt werden. Welche Neuerungen bringt er mit sich?</span>
 &nbsp;
@@ -27,8 +26,7 @@ Wir drucken hier das Interview ab, das unsere Korrespondentin Cornelia C. Cortsc
 #### <span style="font-style: italic;">CCC: Aber die Presse berichtete doch unlängst, daß ein Träger des neuen iPasses beim Grenzübertritt festgenommen wurde, weil der iPass anzeigte, daß er schon tot sei.</span>
 &nbsp;
 ##### GB: Wie Sie wissen, erlag die fragliche Person den Verletzungen, die sie sich bei ihrer Festnahme zugezogen hatte. Deshalb konnte nicht ermittelt werden, ob überhaupt ein Fehler vorlag. Ich gehe jedoch nach wie vor davon aus, daß der iPass nach seiner Implantation nicht mehr verändert werden kann.
-&nbsp;
-[[(C.106.–––) Satirische Werbeanzeige (gefälscht) über die Risiken biometrischer Systeme, Chaos Computer Club, Bd. 87, 2005.png|← (C.111.–––) Satirische Werbeanzeige (gefälscht) über die Risiken biometrischer Systeme, Chaos Computer Club, Bd. 87, 2005]]
+[[(C.106.–––) Fiktive Mercedes Werbeanzeige, Chaos Computer Club (CCC), Bd. 87, 2005, S. 11.png|← (C.106.–––) Fiktive Mercedes Werbeanzeige, Chaos Computer Club (CCC), Bd. 87, 2005, S. 11]]
 &nbsp;
 #### <span style="font-style: italic;">CCC: In der Vergangenheit wurde kritisiert, daß die Daten auf dem Chip unzureichend verschlüsselt sind. Wird sich mit dem neuen iPass-Chip auf diesem Gebiet etwas ändern?</span>
 &nbsp;
@@ -53,18 +51,16 @@ Wir drucken hier das Interview ab, das unsere Korrespondentin Cornelia C. Cortsc
 #### <span style="font-style: italic;">CCC: Aber mit dem iVisum für Bayern ist doch dieser Standard neben dem deutschen auch sehr verbreitet.</span>
 &nbsp;
 ##### GB: Niemand ist verpflichtet, sich ein iVisum implantieren zu lassen...
+[[(C.108.–––) Parodie des Bundesministerium, Chaos Computer Club, Bd. 87, 2005, S. 45.png|← (C.108.–––) Parodie des Bundesministerium, Chaos Computer Club, Bd. 87, 2005, S. 45]]
 &nbsp;
 #### <span style="font-style: italic;">CCC: ...einen iPass aber doch!</span>
-&nbsp;
-[[(C.108.–––) Satirische Werbeanzeige (gefläscht) über die Überwachung persönlicher Daten, Chaos Computer Club, Bd. 87, 2005.png|← (C.113.–––) Satirische Werbeanzeige (gefläscht) über die Überwachung persönlicher Daten, Chaos Computer Club, Bd. 87, 2005]]
 &nbsp;
 ##### GB: Sicher! Der iPass ist ja schon in der ersten Generation seit über einem Jahr obligatorisch, und das ist auch gut so! Allein der Rückgang der Kriminalität ist enorm! Die Vereinfachung von Kontrollen ist für die Bürgerinnen und Bürger sehr bequem. Nicht mal bei Verkehrskontrollen muß mehr angehalten werden!
 &nbsp;
 #### <span style="font-style: italic;">CCC: Aber auch die Zahl der Kontrollen hat sich vervielfacht, ja potenziert! Wird Deutschland zum Überwachungsstaat?</span>
 &nbsp;
 ##### GB: Nun lassen Sie die Kirche mal im Dorf, Frau Curtsschluss! Unser iPass ist ein Exportschlager. Inzwischen wird er weltweit eingesetzt und ist zum Synonym von Reisefreiheit, ja von Freiheit schlechthin geworden. Kontrollen waren gestern! Heute erledigen das unsere Autobahn-Mautbrücken gleich mit. Und wenn Sie am Strand Ihren Drink bezahlen wollen, müssen Sie nicht mehr Ihre Kreditkarte aus dem Bikini ziehen. Ihr Wunsch wird Ihnen buchstäblich von den Augen – oder besser – von der Nase abgelesen. Das ist doch eine Freiheit, die sich jeder nehmen will!
-&nbsp;
-[[(E.–––.161) Dear Darpa Diary, William Safire, 5. Juni 2003|→ (E.–––.166) Dear DARPA Diary, William Safire, 2003]]
+[[(E.–––.161) Dear DARPA Diary, William Safire, 5. Juni 2003|→ (E.–––.161) Dear Darpa Diary, William Safire, 5. Juni 2003]]
 &nbsp;
 #### <span style="font-style: italic;">CCC: Der iPass wird aber auch in vielen umstrittenen Bereichen eingesetzt; ich denke da an DRM, Anwesenheitskontrollen am Arbeitsplatz oder in Schulen und Universitäten.</span>
 &nbsp;
@@ -79,5 +75,5 @@ Wir drucken hier das Interview ab, das unsere Korrespondentin Cornelia C. Cortsc
 ##### GB: Das ist schon technisch unmöglich. Gefälschte iPässe sind und bleiben Science Fiction!
 &nbsp;
 [[(D.–––.117) Chem. Speicherung von digitalen Informationen auf DNA, Robert N. Grass, 30. Januar 2015|→ weiter]]
-[[(C.–––.–91) www.thispersondoesnotexist.com, Phillip Wang, Februar 2019|← zurück]]
+[[(C.–––.–91) This Person Does Not Exist, Phillip Wang, Februar 2019|← zurück]]
 ###### #C-Datenhaltung-eines-Individuums
