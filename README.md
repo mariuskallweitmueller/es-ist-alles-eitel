@@ -9,4 +9,4 @@ In einer Mischung aus journalistischer Recherche und gestalterischer Meditation 
 Betrachtung des Originals somit zu einem 
 vergnüglichen Zeitvertreib.
 
-Dieses Buch unterzieht sich einem darwinistischen Evolutionsprozess und wird somit nie die unerreichbare "Vollendung" genießen.
+>Dieses Buch unterzieht sich einem darwinistischen Evolutionsprozess und wird somit nie die unerreichbare "Vollendung" genießen.
