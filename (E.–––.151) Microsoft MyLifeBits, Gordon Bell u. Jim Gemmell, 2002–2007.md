@@ -78,7 +78,7 @@ Ante tal avalancha de información, bien vale preguntarse cómo se distingue des
 &nbsp;
 <span style="padding-right: 115px; font-style: italic; font-size: 1.15em;">01.11.2006</span>**A Head For Detail, Fast Company**
 [...] “I’m a big fan of forgetting,” says Frank Nack, a German computer scientist who published a critique of lifelogging experiments last winter. “It’s how we make sense of life, how we interpret things. Everybody is building a life story; we all need to forget certain stages. I don’t want to be reminded of everything I said.” Forgetting, he points out, is key to cultural concepts like forgiveness and nostalgia. Sure, we lose track of most of what happens to us–but that natural filtering process results in what we call knowledge and wisdom. When memories are only a click away, Nack says, they’re cheapened. Without the difficult act of pulling something from the crannies of the mind, we become like the hapless high-school student who gets 2 million hits for a search on “World War II” and has no way of prioritizing them. [...]
-[[(E.156.–––) Microsoft Research – SenseCam, Steve Hodges, Cambridge, circa 2009.jpg|← (E.156.–––) Microsoft SenseCam, James Srinivasan, Trevor Taylor, 2009]]
+[[(E.156.–––) Microsoft Research – SenseCam, Steve Hodges, Cambridge, 25. Februar 2004.jpg|← (E.156.–––) Microsoft Research: SenseCam, Steve Hodges, Cambridge, 25. Februar 2004]]
 &nbsp;
 ##### The cost of a gigabyte of computer memory, over time.
 ##### - 1956 | $10 million

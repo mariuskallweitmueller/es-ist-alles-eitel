@@ -38,7 +38,7 @@ Keywords: [Lifelogging, Daten, Quantified Self]
 ##### That's just dandy for the personal privacy of the "user," who would be led to believe he controlled the only copy of his infinitely detailed profile. But what about the "use-ee" the person that PAL's user is looking at, listening to, sniffing or conspiring with to blow up the world?
 &nbsp;
 #### The human user may have opt-in control of the wireless wire he is secretly wearing, but all the people who come in contact with PAL and its willing user-spy would be ill-used without their knowledge. Result: Everybody would be snooping on everybody else, taping and sharing that data with the government and the last media conglomerate left standing.
-[[(C.–––.–79) Gästebuch Spurensuche e.V., J. Schild & Manfred Kriegel, 2006–2007|→ (C.–––.–79) Gästebuch Spurensuche e.V., J. Schild/Manfred Kriegel, 2006–2007]
+[[(C.–––.–79) Gästebuch Spurensuche e.V., J. Schild & Manfred Kriegel, 2006–2007|→ (C.–––.–79) Gästebuch Spurensuche e.V., J. Schild/Manfred Kriegel, 2006–2007]]
 &nbsp;
 ##### And in the basement of the Pentagon, LifeLog's Dr. Gage and his PAL, the totally aware Admiral Poindexter, would be dumping all this "voluntary" data into a national memory bank, which would have undeniable recall of everything you would just as soon forget.
 [[(E.164.–––) Memorandum des Kidnapping von Charles F. Urschel, Federal Bureau of Investigation, 25. Juli 1933.jpg|← (E.164.–––) Memorandum des Kidnapping von Charles F. Urschel, Federal Bureau of Investigation, 25. Juli 1933]]

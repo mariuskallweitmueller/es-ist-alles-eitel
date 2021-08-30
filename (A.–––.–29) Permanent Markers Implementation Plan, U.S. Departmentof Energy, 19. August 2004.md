@@ -17,7 +17,7 @@ Keywords: [Atomsemiotik, Hinterlassenschaft des Menschen, Zeichensprache]
 &nbsp;
 Information related to the Large Surface Markers is provided in this section.
 &nbsp;
-<span style="font-style: italic;">5.1.1 Conceptual Design</span>
+<i>5.1.1 Conceptual Design</i>
 &nbsp;
 The Large Surface Markers will be placed on the perimeter of the controlled area and on the perimeter of the repository footprint. Thirty-two markers will be on the controlled area perimeter and sixteen will be on the repository footprint.
 &nbsp;
@@ -41,7 +41,7 @@ Additional details for the Large Surface Markers conceptual design are as follow
 &nbsp;
 Information related to the Small Subsurface Markers is provided in this section.
 &nbsp;
-<span style="font-style: italic;">5.2.1 Conceptual Design</span>
+<i>5.2.1 Conceptual Design</i>
 &nbsp;
 Small Subsurface Markers will be buried throughout the repository footprint, within the Berm, and in the four shaft seals. Spacing between these Small Subsurface Markers will be between 15 to 40 feet and random within that range, resulting in the emplacement of several thousand markers. Random spacing will preclude souvenir hunters from identifying a burial pattern, making it difficult to intentionally excavate and retrieve a large number of the markers.
 &nbsp;
@@ -60,11 +60,11 @@ The proposed design for the Small Subsurface Markers is a disk with a 9-inch dia
 &nbsp;
 As noted previously, the Berm’s presence inherently conveys a Level I message that something manmade is present. No higher level messages are communicated by the Berm. The Buried Storage Room that will be constructed inside the Berm (along with another Buried Storage Room located to the north of the Berm) will, however, contain messages of greater complexity (i.e., Levels II, III, and IV messages). The Buried Storage Rooms are discussed in subsection 5.4. Magnets and radar reflectors will also be buried in the Berm.
 &nbsp;
-<span style="font-style: italic;">5.3.1 Constructed Berm</span>
+<i>5.3.1 Constructed Berm</i>
 &nbsp;
 The conceptual design of the constructed Berm, open design considerations and alternative materials are described in this section.
 &nbsp;
-<span style="font-style: italic;">5.3.1.1 Conceptual Design</span>
+<i>5.3.1.1 Conceptual Design</i>
 &nbsp;
 The Berm will be rectangular in plan, covering the footprint of the waste disposal area of the repository on the ground surface plus a small margin; it is not to exceed the area of the repository footprint by more than 10 percent. As planned in the conceptual design, the rectangular footprint of the disposal area measures 2063 by 2545 feet; the inner perimeter of the Berm measures 2165 by 2670 feet, so this plan incorporates a 51 foot margin between the repository outline and the Berm on the shorter (north and south) sides and a 62 foot margin on the longer (east and west) sides. Since the Berm is 98 feet wide, the outer perimeter of the Berm measures 2363 feet by 2868 feet (see Figure 6).
 
@@ -77,7 +77,7 @@ The design of the Berm will incorporate drainage outlets at intervals of approxi
 &nbsp;
 Information regarding the Buried Storage Rooms is provided in this section.
 &nbsp;
-<span style="font-style: italic;">5.4.1 Conceptual Design</span>
+<i>5.4.1 Conceptual Design</i>
 &nbsp;
 There will be two Buried Storage Rooms: one buried at grade level inside the Berm; and the second buried 20 feet below the surface, 525 feet north of the Berm on a line passing through the Information Center, the center of the northern and southern sections of the Berm, and the Hot Cell.
 &nbsp;
@@ -90,7 +90,7 @@ The only entrance to each room will consist of a single tapered hole in one wall
 &nbsp;
 The Hot Cell has already been constructed; it is intended to remain on site as an “archeological remnant,” thus serving as a “de facto” permanent marker. Current plans are to use the below-grade portion of the building for cask-to-cask transfer of RH waste from “road” casks to “facility” casks. It is not currently known whether the building will be radioactively contaminated. If it is, it will be decontaminated during closure to the same standards as other WIPP facilities.
 &nbsp;
-<span style="font-style: italic;">5.5.1 Conceptual Design</span>
+<i>5.5.1 Conceptual Design</i>
 &nbsp;
 The Hot Cell is a reinforced concrete structure measuring 70 by 40 feet, with walls 4.5 feet thick. The Hot Cell foundation extends approximately 30 feet below grade, and the roof is 60 feet above grade. A floor separates the below-grade section from the above-grade section. [...]
 &nbsp;
@@ -98,7 +98,7 @@ The Hot Cell is a reinforced concrete structure measuring 70 by 40 feet, with wa
 &nbsp;
 Information related to the Information Center is provided in this section.
 &nbsp;
-<span style="font-style: italic;">5.6.1 Conceptual Design</span>
+<i>5.6.1 Conceptual Design</i>
 &nbsp;
 The Information Center will be located above ground at the geometric center of the repository footprint. The site will be graded for drainage away from the Information Center. Overall dimensions of the structure will be 40 by 32 by 10 feet (Figure 11). The conceptual design is an open structure, allowing observation of the contents of the building with natural light. It will consist of walls, floor, and panels made of granite. The walls will be buried to five feet in compacted caliche to provide support for the building.
 

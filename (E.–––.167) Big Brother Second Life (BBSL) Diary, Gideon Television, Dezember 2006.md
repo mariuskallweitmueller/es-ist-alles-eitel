@@ -8,10 +8,10 @@ Link: [http://www.yesbutnobutyes.com/archives/2006/12/big_brother_sec.html, http
 Keywords: [Second Life, Digitale Aura, Virtuelle Welten, Metaversum]
 ---
 
-# Big Brother Second Life Diary,
+# Big Brother Second Life (BBSL) Diary,
 # Gideon Television,
 # Dezember 2006
-### ↓ (E.–––.172)
+### ↓ (E.–––.167)
 **Day 1**
 &nbsp;
 And so it begins. 15 avatars, one house, one month. And this is my confessional.
@@ -70,7 +70,7 @@ Meanwhile in Lillani and Warda's corner, they'd created an installation that rif
 Meanwhile the floozies lined up to gawk at the inmates, and despite my screaming objections, Big Brother held fast that conjugal visits were not allowed.
 [[(E.168.–––) Wahlplakat für die Kandidatin Phaylen Fairchild, Gary Hayes, 7. Dezember 2008.jpg|← (E.168.–––) Wahlplakat für die Kandidatin Phaylen Fairchild, Gary Hayes, 7. Dezember 2008]]
 As if in desperation, and feigning exhaustion, I lay down beside Pannie. A smoking redhead in sheer blue lingerie, it was all the more delicious as I knew her husband was watching from outside the glass. Poor sap. But before I could move into action, the darkness enclosed me, and the first day in the house was over. Sleep tight, maties.
-[[(E.170.–––) Kandidatin Warda Kawata in ihrer "Box", Gary Hayes, 7. Dezember 2008.jpg|← (E.175.–––) Kandidatin Warda Kawata in ihrer Box, Gary Hayes, 7. Dezember 2008]]
+[[(E.170.–––) Kandidatin Warda Kawata in ihrer "Box", Gary Hayes, 7. Dezember 2008.jpg|← (E.170.–––) Kandidatin Warda Kawata in ihrer Box, Gary Hayes, 7. Dezember 2008]]
 **Day 2**
 &nbsp;
 When I awoke the next day, it soon became clear that I'd missed some fireworks while I was out. More furniture had been installed, more floors had been built, one contestant had been sent to the emergency ward. But none of that compared to the dawning realization that there's was something different in the air. something.... electric.

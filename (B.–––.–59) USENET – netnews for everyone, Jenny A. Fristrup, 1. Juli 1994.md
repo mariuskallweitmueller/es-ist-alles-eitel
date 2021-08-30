@@ -192,7 +192,7 @@ Some topics are subject to prolonged discussion. This branch of USENET is the pl
 **talk.bizarre.*:**
 <span style=" padding-right: 120px;">talk.bizarre</span> The unusual, bizarre, curious,...
 talk.bizarre.rabbit
-<span style="font-style: italic;">Welcome to talk.bizarre! (Monthly Posting)</span>
+<i>Welcome to talk.bizarre! (Monthly Posting)</i>
 &nbsp;
 **talk.environment:**
 <span style="padding-right: 85px;">talk.environment</span>Discussion on the state of the environment.
@@ -200,7 +200,7 @@ talk.bizarre.rabbit
 &nbsp;
 **talk.origins:**
 <span style=" padding-right: 125px;">talk.origins</span>Evolution versus creationism (sometimes hot!).
-<span style="font-style: italic;">talk.origins Welcome FAQ v.1.1</span>
+<i>talk.origins Welcome FAQ v.1.1</i>
 &nbsp;
 **talk.philosophy.:**
 <span style=" padding-right: 95px;">talk.philosophy</span>Discussion about philosophy.
@@ -220,16 +220,16 @@ talk.politics.cis
 <span style=" padding-right: 70px;">talk.politics.theory</span>Theory of politics and political systems.
 &nbsp;
 **talk.politics.drugs:**
-<span style="font-style: italic;">GROUPS: Anti War-on-Drugs Activists List</span>
-<span style="font-style: italic;">The Great Usenet Piss List Monthly Posting</span>
+<i>GROUPS: Anti War-on-Drugs Activists List</i>
+<i>The Great Usenet Piss List Monthly Posting</i>
 &nbsp;
 **talk.politics.misc:**
-<span style="font-style: italic;">Libertarian Frequently Asked Questions</span>
-<span style="font-style: italic;">Libertarian Organizations</span>
-<span style="font-style: italic;">Libertarian Worlds Smallest Political Quiz [periodic posting!]</span>
+<i>Libertarian Frequently Asked Questions</i>
+<i>Libertarian Organizations</i>
+<i>Libertarian Worlds Smallest Political Quiz [periodic posting!]</i>
 &nbsp;
 **talk.politics.space:**
-<span style="font-style: italic;">Electronic Journal of the ASA (EJASA) - August 1993 * FOURTH YEAR!</span>
+<i>Electronic Journal of the ASA (EJASA) - August 1993 * FOURTH YEAR!</i>
 &nbsp;
 **talk.rape:**
 <span style=" padding-right: 135px;">talk.rape</span>Discussions on stopping rape; not to be crossposted.

@@ -13,8 +13,7 @@ Keywords: [Photoshop, Fälschung]
 ### ↓ (C.–––.–85)
 
 In George Orwellʼs <span style="font-style: italic;">Nineteen Eigthy-Four</span>, the protagonist is a government employee in a totalitarian state. His job is to delete references from the media of people that have been arrested or killed, by rewriting news articles and altering photographs. 
-Orwellʼs dystopia became a reality in the Soviet Union in the 1940s, wherein deleting people from images and official records happend on a regular basis to enemies of the state.
-Retouching photographs to remove people has not only been done by totalitarian regimes, but what makes these cases poignant is that the deleted persons in these examples had personal relations with the leaders that ordered to have them erased from history.
+Orwellʼs dystopia became a reality in the Soviet Union in the 1940s, wherein deleting people from images and official records happend on a regular basis to enemies of the state. Retouching photographs to remove people has not only been done by totalitarian regimes, but what makes these cases poignant is that the deleted persons in these examples had personal relations with the leaders that ordered to have them erased from history.
 
 &nbsp;
 
@@ -29,10 +28,8 @@ The left photo was taken in 1937 by the Moscow canal featuring Stalin in the cen
 &nbsp;
 
 <span style="font-size: 1.15em; font-style: italic;">Kimʼs Uncle</span>
-The second most powerful man in North Korea, Jang Song-Thaek, was found guilty of treason in 2013. Not only was he one of Kim Jong-unʼs closest advisors, he was also his uncle. He was abruptly accused of counter-revolutionary activities and executed.
-
-The images are stills from the state documentary ʻThe Great Comradeʼ. The \[...\] images aired after his execution, and Jang Song-Thaek (circled in red) vanished by cropping and retouching.
-[[(C.–88.–––) The Great Comrade, KCTV, Originalausstrahlung 7. Oktober 2013 Wiederholungssendung 7. Dezember 2013.png|→ (C.–88.–––) The Great Comrade, KCTV, Originalausstrahlung 7. Oktober 2013/Wiederholungssendung 7. Dezember 2013 ]]
+The second most powerful man in North Korea, Jang Song-Thaek, was found guilty of treason in 2013. Not only was he one of Kim Jong-unʼs closest advisors, he was also his uncle. He was abruptly accused of counter-revolutionary activities and executed. The images are stills from the state documentary ʻThe Great Comradeʼ. The \[...\] images aired after his execution, and Jang Song-Thaek (circled in red) vanished by cropping and retouching.
+[[(C.–88.–––) The Great Comrade, KCTV, Originalausstrahlung 7. Oktober 2013 Wiederholungssendung 7. Dezember 2013.png|→ (C.–88.–––) The Great Comrade, KCTV, Originalausstrahlung 7. Oktober 2013/ Wiederholungssendung 7. Dezember 2013 ]]
 [[(C.–––.–91) This Person Does Not Exist, Phillip Wang, Februar 2019|→ weiter]]
 [[(C.–––.–79) Gästebuch Spurensuche e.V., J. Schild & Manfred Kriegel, 2006–2007|← zurück]]
 ###### #C-Datenhaltung-eines-Individuums

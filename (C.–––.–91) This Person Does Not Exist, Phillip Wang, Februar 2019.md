@@ -22,7 +22,7 @@ Keywords: [Deepfakes, Artificial Intelligence, Generative Adversial Network, Per
 ##### Another
 [[(C.–90.–––) Unbekannte Person, Entstehungszeit. 22.06.2021, 21.15.29 CET.png|← (C.–90.–––) Unbekannte Person, Entstehungszeit: 22.06.2021, 21:15:29 CET]]
 &nbsp;
-[[(D.–––.117) Chem. Speicherung von digitalen Informationen auf DNA, Robert N. Grass, 30. Januar 2015|→ (D.–––.117) Digitale Informationen auf DNA speichern, Robert N. Grass, 24. November 2014]]
+[[(D.–––.117) Chem. Speicherung von digitalen Informationen auf DNA, Robert N. Grass, 30. Januar 2015|→ (D.–––.117) Chem. Speicherung von digitalen Informationen auf DNA, Robert N. Grass, 30. Januar 2015]]
 &nbsp;
 [[(C.–92.–––) Unbekannte Person, Entstehungszeit. 23.06.2021, 19.32.16 CET.png|← (C.–92.–––) Unbekannte Person, Entstehungszeit: 23.06.2021, 19:32:16 CET]]
 &nbsp;

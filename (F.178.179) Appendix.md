@@ -415,5 +415,5 @@ Keywords: [Glossar, Quellenangaben, Appendix]
 </div>
 
 &nbsp;
-[[(☒.–––.––9) Vorwort|→ weiter]]
+[[Impressum|→ weiter]]
 [[(E.–––.175) Vom vermessenen zum verbesserten Menschen?, Stefan Selke, Innsbruck, 2016|← zurück]]

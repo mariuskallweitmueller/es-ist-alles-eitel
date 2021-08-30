@@ -1,14 +1,13 @@
 ---
 Chapter: [D]
 Pages: [116–125]
-Title: [Digitale Informationen auf DNA speichern]
+Title: [Chem. Speicherung von digitalen Informationen auf DNA]
 Author: [Robert N. Grass]
-Date: [24.01.2015]
+Date: [30.01.2015]
 Keywords: [DNA, Digitale Daten, Biokonservierung]
 ---
 
-# Digitale Informationen auf DNA speichern,
-# Robert N. Grass,
+# Chem. Speicherung von digitalen Informationen auf DNA, Robert N. Grass,
 # 30. Januar 2015
 ### ↓ (D.–––.117)
 <span style="font-style: italic;"><span style="font-weight: bold;">Abstract:</span> Auf Papier gedruckte oder auf Mikrofilm projizierte Information kann mehr als 500 Jahre überdauern. Die Speicherung von digitaler Information über Zeiträume über 50 Jahre stellt hingegen eine große Herausforderung dar. Hier zeigen wir, dass digitale Information auf DNA gespeichert werden kann und auch nach wesentlich längeren Zeiträumen wieder fehlerfrei auslesbar ist. Um eine Wiederherstellung der gespeicherten Information zu gewährleisten, wurde DNA in eine anorganische Matrix eingeschlossen. Zusätzlich dazu wurden fehlerkorrigierende Codes verwendet, um während der Lagerung entstehende Fehler zu beheben. Hierfür codierten wir 83 Kilobytes an Information in 4991 DNA-Segmente, die jeweils 158 Nukleotide lang waren und in einer SiO2-Matrix eingeschlossen wurden. Beschleunigte Alterungsprozesse wurden simuliert, um die Zerfallskinetik der DNA zu untersuchen. Es zeigte sich, dass die Daten in DNA unter verschiedensten Bedingungen Jahrhunderte lang archiviert werden können. Die ursprüngliche Information konnte selbst nach einwöchiger Lagerung bei 708C noch fehlerfrei wiederhergestellt werden. Dies ist thermisch äquivalent zu einer Lagerung in Zentraleuropa über einem Zeitraum von ca. 2000 Jahren.</span>
@@ -21,7 +20,7 @@ Zur Bewältigung dieser Probleme kombinierten wir ein fehlerkorrigierendes Infor
 
 Die dazugehörigen Experimente zeigen, dass nur durch die Kombination der beiden Konzepte Informationen selbst nach einer Millionen Jahre langer Lagerung in der „Svalbard Global Seed Vault“ (bei –18°C) vollständig wiederhergestellt werden könnten.
 Da die Synthese und Sequenzierung von langen DNA-Strängen technisch nur schwer möglich ist, werden die Daten auf viele kurze Segmente geschrieben. Diese können nicht geometrisch angeordnet werden, wodurch sich das Schreiben und Lesen von Daten auf DNA von herkömmlichen Speichermedien wie z.B. Festplatten unterscheidet. Zudem treten beim Schreiben, Lagern und Ablesen (Sequenzieren) der DNA Fehler auf. Einzelne Basen sind fehlerhaft, zudem gehen ganze Sequenzen verloren. In klassischen Speichermedien werden fehlerkorrigierende Codes verwendet, mit denen die Information durch das Hinzufügen von Redundanz geschätzt wird. Die Redundanz wird so gewählt, dass alle Fehler, die während der Benutzung oder Lagerung der Daten auftreten, korrigiert werden können. Aufgrund der spezifischen Anforderungen an die Lagerung von DNA mussten bereits existierende Algorithmen entsprechend modifiziert und angepasst werden: Einzelne Sequenzen wurden mit Indizes versehen und mit zwei unabhängigen fehlerkorrigierenden (Reed-Solomon) Codes verknüpft. (Abbildung 1; siehe Hintergrundinformationen für Code-Design und Parameterwahl). 
-[[(D.120.–––) Verschlüsselung bzw. Übersetzung eines 83 Kilobyte großen Textes, Grass, 2015.jpg|→ (D.120.–––) Verschlüsselung bzw. Übersetzung eines 83 Kilobyte großen Textes, Grass, 2015]]
+[[(D.120.–––) Verschlüsselung bzw. Übersetzung eines 83 Kilobyte großen Textes, Grass, 2015.jpg|→ (D.120.–––) Verschlüsselung/Übersetzung eines 83 Kilobyte großen Textes, Grass, 2015]]
 
 Der entwickelte Algorithmus wurde physikalisch getestet, indem wir den Text aus zwei alten Dokumenten auf DNA speicherten: Der Schweizer Bundesbrief von 1291 und die englische Übersetzung von „Archimedesʼ Methodenlehre von Mechanischen Sätzen“. Der vollständige (nicht komprimierte) Text besitzt eine Größe von 83 Kilobytes und wurde wie in Abbildung 1 gezeigt codiert. Dadurch entstanden 4991 Sequenzen zu je 117 Nukleotiden, an die zusätzlich Primer angebracht wurden (Totallänge von 158 nt), um eine schnelle und indizierte Vorbereitung der Sequenzdatenbank für die Sequenzierung zu ermöglichen. Die einzelnen Sequenzen wurden mithilfe von Mikroarray-Technologie (CustomArray)<sup>[6]</sup> synthetisiert, anschließend durch eine benutzerdefinierte PCR-Methode (Polymerasekettenreaktion) für das Sequenzieren vorbereitet und unter Verwendung der Illumina-MiSeq-Plattform abgelesen (siehe Hintergrundinformationen für experimentelle Details). Beim Ablesen der Sequenzen musste der innere Code durchschnittlich 0.7 Fehler pro Sequenz ausgleichen.
 Der äußere Code musste zusätzlich einen Verlust von 0.3% der gesamten Sequenzen kompensieren und 0.4% der Sequenzen korrigieren. Dies ermöglichte eine vollständige und fehlerfreie Rückgewinnung der ursprünglich gespeicherten Information. 
@@ -37,31 +36,31 @@ Die Lagerungstechnologien bestehen aus einem imprägnierten Filterpapier,<sup>[9
 wobei der beobachtete Faktor A den präexponentiellen Arrhenius- Faktor k0 und den Effekt des Wassers (cH2O)n beschreibt. Basierend auf den identischen Aktivierungsenergien könnte man daraus schließen, dass sich die DNA in allen Lagerungsmatrizen nach demselben Einzelstrangbruchmechanismus zersetzt<sup>[11, 16]</sup> und sich die einzelnen Zerfallsgeschwindigkeiten nur aufgrund der Lagerungstemperatur und der Wasserkonzentration in der unmittelbaren Nähe der DNA-Moleküle unterscheiden. (Es lässt sich vermuten, dass sich Wasser an die DNA-Moleküle innerhalb der Biopolymere anlagert, und selbst wenn DNA in Siliciumdioxid eingeschlossen ist, wird sie noch mit Wassermolekülen assoziiert sein.) Die Daten in Abbildung 2 zeigen deutlich, dass die anorganische Lagerungsmethode (DNA in Siliciumdioxid) die beste DNA-Konservierungsmethode darstellt, da sie die geringste lokale Wasserkonzentration aufweist. Eine anorganische Schicht trennt zudem die DNA-Moleküle von der Umgebung, und dadurch wird der Zerfall nicht von der Luftfeuchtigkeit der Lagerungsumgebung beeinflusst. Für eine Langzeitlagerung ist dies von großer Bedeutung, da Lagerstätten ohne Feuchtigkeit schwer aufrechtzuerhalten sind. Im Gegensatz dazu können alterungshemmende Faktoren wie Kälte (beispielsweise Permafrost) und der Ausschluss von Licht für längere Zeit ohne Energieaufwand verwirklicht werden. Das Lagerungsverfahren in Siliciumdioxid weist außerdem einen außergewöhnlichen Schutz der DNA gegenüber Oxidation auf (siehe Behandlung mit reaktiven Sauerstoffspezies in den Hintergrundinformationen). Ein weiterer Schutz gegenüber Licht kann durch den Einsatz einer Titandioxid-Schicht erzielt werden.<sup>[17]</sup>
 In fossilen Knochen hat DNA die größte Überlebenschance, wenn sie in Apatit/Kollagen-Strukturen<sup>[13]</sup> oder in Kristallaggregaten<sup>[14]</sup> eingeschlossen ist. Diese Strukturen schützen die DNA vor der Umwelt und Feuchtigkeit, ähnlich zur Einkapselung der DNA im anorganischen Siliciumdioxid, welche wir hier verwendet haben.Werden die in Abbildung 2 gezeigten Zerfallsdaten der DNA für tiefere Temperaturen extrapoliert, stimmen sie sehr gut mit der Zerfallsgeschwindigkeit von Moa-Fossilien überein, welche Allentoft et al. anhand von bis zu 8000 Jahren alten Knochen untersucht haben.<sup>[12]</sup> Des Weitern stimmen die Daten auch mit den kürzlich bestimmten Zerfallsdaten von trocken gelagerter DNA überein (32 Wochen Lagerung; Punkt 4 in Bonnet et al.<sup>[8]</sup>). Diese Stabilität erklärt zudem den Erfolg der Sequenzierung von DNA aus 300 000 Jahre alten Knochenproben (siehe Diskussion in den Hintergrundinformationen). Daraus wird ersichtlich, dass in beiden Fällen (DNA in Knochen und DNA in Siliciumdioxid) der Zerfall an Informationen derselben Kinetik folgt. Die beschleunigten Alterungstests von DNA in Siliciumdioxid ahmen dabei den langzeitigen Zerfall von DNA in fossilen Knochen nach.
 Im Folgenden wollen wir zeigen, dass in synthetischer DNA gespeicherte Information selbst nach beträchtlicher thermischer Behandlung immer noch korrekt ausgelesen werden kann. Hierfür wurde DNA in Siliciumdioxid für eine halbe sowie für eine ganze Woche bei 70 °C gelagert und anschließend sequenziert. Die Daten wurden dann nach dem vorherigen Schema (Abbildung 1) rekonstruiert. Die zwei erhaltenen Datenpunkte entsprechen dem Zerfall der DNA zu ca. einer bzw. vier Halbwertszeiten. Auch wenn in diesen thermisch behandelten Proben beide (innere und äußere) fehlerkorrigierende Codes signifikant mehr Fehler korrigieren mussten als in den thermisch unbehandelten Proben, konnte in beiden Fällen die Information ohne Fehler wiederhergestellt werden (Abbildung 3).
-[[(D.124.–––) Statistik zur Entschlüsselung und Fehlerkorrektur der DNA-Codes, Grass, 2015.jpg|← (D.124.–––) Statistik zur Entschlüsselung und Fehlerkorrektur der DNA-Codes, Grass, 2015]]
+[[(D.124.–––) Statistik zur Entschlüsselung und Fehlerkorrektur der DNA-Codes, Grass, 2015.jpg|→ (D.124.–––) Statistik zur Entschlüsselung und Fehlerkorrektur der DNA-Codes, Grass, 2015]]
 
 Die Möglichkeit, Ursprungsdaten aus DNA noch nach 4 Halbwertszeiten fehlerfrei auslesen zu können, entspricht nach Abbildung 2c der Lagerung von DNA in Zürich (9.4 °C) für 2000 Jahre oder für den am kältesten, ganzjährlich zugänglichen Punkt in der Schweiz (Jungfraujoch, 3471 m.ü.M) bis zu 100 000 Jahre. Die Daten sagen zudem voraus, dass digitale Information in eingekapselter DNA in Siliciumdioxid für mehr als 2 Millionen Jahre im Global Seed Vault bei –18 °C gespeichert werden kann.
 &nbsp;
-[1] a) M. Hilbert, P. Lopez, _Science_ 2011, 332, 60; b) P. Conway, _Libr. Q._ 2010, _80_, 61.
-[2] S. Shah, J. G. Elerath, _Annu. Reliab. Maintainability Symp. Proc._ 2004, 163.
-[3] a) J. Dabney, et al., _Proc. Natl. Acad. Sci._ USA 2013, _110_, 15758; 
-b) M. Meyer, et al., _Nature_ 2014, _505_, 403.
-[4] J. M. Oh, D. H. Park, J. H. Choy, _Chem. Soc. Rev._ 2011, _40_, 583.
-[5] D. H. Park, C. J. Han, Y. G. Shul, J. H. Choy, _Sci. Rep._ 2014, _4_, 4879.
-[6] a) Z. Ezziane, _Nanotechnology_ 2006, _17_, R27; b) Y. Benenson, _Nat. Rev. Genet._ 2012, _13_, 455.
-[7] a) C. Bancroft, T. Bowler, B. Bloom, C. T. Clelland, _Science_ 2001, _293_, 1763; b) G. M. Church, Y. Gao, S. Kosuri, _Science_ 2012, _337_, 1628; c) N. Goldman, P. Bertone, S. Y. Chen, C. Dessimoz, E. M. LeProust, B. Sipos, E. Birney, _Nature_ 2013, _494_, 77; d) J. Davis, _Art J._ 1996, _55_, 70.
-[8] I. S. Reed, G. Solomon, _J. Soc. Ind. Appl. Math._ 1960, _8_, 300.
-[9] S. Kosuri, G. M. Church, _Nat. Methods_ 2014, _11_, 499.
-[10] T. Lindahl, B. Nyberg, _Biochemistry_ 1972, _11_, 3610.
-[11] J. Bonnet, M. Colotte, D. Coudy, V. Couallier, J. Portier, B. Morin, S. Tuffet, _Nucleic Acids Res._ 2010, _38_, 1531.
-[12] L. A. Burgoyne, US Patent 6322983B, 2001.
-[13] E. Wan, M. Akana, J. Pons, J. Chen, S. Musone, P. Y. Kwok, W. Liao, _Curr. Issues Mol. Biol._ 2010, _12_, 135.
-[14] a) D. Paunescu, R. Fuhrer, R. N. Grass, _Angew. Chem. Int. Ed._ 2013, _52_, 4269; _Angew. Chem._ 2013, _125_, 4364; b) D. Paunescu, M. Puddu, J. O. B. Soellner, P. R. Stoessel, R. N. Grass, _Nat. Protoc._ 2013, _8_, 2440.
-[15] M. E. Allentoft, et al., _Proc. R. Soc. London Ser. B_ 2012, _279_, 4724.
-[16] T. Lindahl, _Nature_ 1993, _362_, 709.
-[17] D. Paunescu, C. A. Mora, M. Puddu, F. Krumeich, R. N. Grass, _J. Mater. Chem. B_ 2014, _2_, 8504.
-[18] P. F. Campos, O. E. Craig, G. Turner-Walker, E. Peacock, E. Willerslev, M. T. P. Gilbert, _Ann. Anat._ 2012, _194_, 7.
-[19] M. Salamon, N. Tuross, B. Arensburg, S. Weiner, Proc. _Natl. Acad. Sci. USA_ 2005, _102_, 13783.
-[20] C. I. Smith, A. T. Chamberlain, M. S. Riley, C. Stringer, M. J. Collins, _J. Hum. Evol._ 2003, _45_, 203.
+[1] a) M. Hilbert, P. Lopez, <i>Science</i> <b>2011</b>, 332, 60; b) P. Conway, <i>Libr. Q.</i> <b>2010</b>, <i>80</i>, 61.
+[2] S. Shah, J. G. Elerath, <i>Annu. Reliab. Maintainability Symp. Proc.</i> <b>2004</b>, 163.
+[3] a) J. Dabney, et al., <i>Proc. Natl. Acad. Sci.</i> USA <b>2013</b>, <i>110</i>, 15758; 
+b) M. Meyer, et al., <i>Nature</i> <b>2014</b>, <i>505</i>, 403.
+[4] J. M. Oh, D. H. Park, J. H. Choy, <i>Chem. Soc. Rev.</i> <b>2011</b>, <i>40</i>, 583.
+[5] D. H. Park, C. J. Han, Y. G. Shul, J. H. Choy, <i>Sci. Rep.</i> <b>2014</b>, <i>4</i>, 4879.
+[6] a) Z. Ezziane, <i>Nanotechnology</i> <b>2006</b>, <i>17</i>, R27; b) Y. Benenson, <i>Nat. Rev. Genet.</i> <b>2012</b>, <i>13</i>, 455.
+[7] a) C. Bancroft, T. Bowler, B. Bloom, C. T. Clelland, <i>Science</i> <b>2001</b>, <i>293</i>, 1763; b) G. M. Church, Y. Gao, S. Kosuri, <i>Science</i> <b>2012</b>, <i>337</i>, 1628; c) N. Goldman, P. Bertone, S. Y. Chen, C. Dessimoz, E. M. LeProust, B. Sipos, E. Birney, <i>Nature</i> <b>2013</b>, <i>494</i>, 77; d) J. Davis, <i>Art J.</i> <b>1996</b>, <i>55</i>, 70.
+[8] I. S. Reed, G. Solomon, <i>J. Soc. Ind. Appl. Math.</i> <b>1960</b>, <i>8</i>, 300.
+[9] S. Kosuri, G. M. Church, <i>Nat. Methods</i> <b>2014</b>, <i>11</i>, 499.
+[10] T. Lindahl, B. Nyberg, <i>Biochemistry</i> <b>1972</b>, <i>11</i>, 3610.
+[11] J. Bonnet, M. Colotte, D. Coudy, V. Couallier, J. Portier, B. Morin, S. Tuffet, <i>Nucleic Acids Res.</i> <b>2010</b>, <i>38</i>, 1531.
+[12] L. A. Burgoyne, US Patent 6322983B, <b>2001</b>.
+[13] E. Wan, M. Akana, J. Pons, J. Chen, S. Musone, P. Y. Kwok, W. Liao, <i>Curr. Issues Mol. Biol.</i> <b>2010</b>, <i>12</i>, 135.
+[14] a) D. Paunescu, R. Fuhrer, R. N. Grass, <i>Angew. Chem. Int. Ed.</i> <b>2013</b>, <i>52</i>, 4269; <i>Angew. Chem.</i> <b>2013</b>, <i>125</i>, 4364; b) D. Paunescu, M. Puddu, J. O. B. Soellner, P. R. Stoessel, R. N. Grass, <i>Nat. Protoc.</i> <b>2013</b>, <i>8</i>, 2440.
+[15] M. E. Allentoft, et al., <i>Proc. R. Soc. London Ser. B</i> <b>2012</b>, <i>279</i>, 4724.
+[16] T. Lindahl, <i>Nature</i> <b>1993</b>, <i>362</i>, 709.
+[17] D. Paunescu, C. A. Mora, M. Puddu, F. Krumeich, R. N. Grass, <i>J. Mater. Chem. B</i> <b>2014</b>, <i>2</i>, 8504.
+[18] P. F. Campos, O. E. Craig, G. Turner-Walker, E. Peacock, E. Willerslev, M. T. P. Gilbert, <i>Ann. Anat.</i> <b>2012</b>, <i>194</i>, 7.
+[19] M. Salamon, N. Tuross, B. Arensburg, S. Weiner, Proc. <i>Natl. Acad. Sci. USA</i> <b>2005</b>, <i>102</i>, 13783.
+[20] C. I. Smith, A. T. Chamberlain, M. S. Riley, C. Stringer, M. J. Collins, <i>J. Hum. Evol.</i> <b>2003</b>, <i>45</i>, 203.
 &nbsp;
 [[(D.–––.127) CLONAID™ Pioneers in Human Cloning, Rael, 2006|→ weiter]]
 [[(C.–––.105) Einführung des neuen Bio-iPass, maha@elitas.com, 24. Oktober 2005|← zurück]]

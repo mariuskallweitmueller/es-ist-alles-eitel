@@ -43,139 +43,169 @@ In retrospect, I wonder if I’m getting my dates confused, if I had the idea to
 &nbsp;
 
 **AN INDEX OF PERSONS, PLACES AND THINGS MENTIONED IN LUMINOUS AIRPLANES** <span style="padding-left: 242px;">(Outside of Time and Space)</span>
+
 &nbsp; 
-[-] Fantasy Fiction
-For the Love of God, Montresor!
-Some Definitions
+
+<div style="width: 100%; display: flex;">
+<div style="width: 33%;"> 
+<p style="text-align: left;">
+[-] Fantasy Fiction<br>
+For the Love of God, Montresor!<br>
+Some Definitions<br>
+<br>
+[-] Fish<br>
+Ablette<br>
+Books and Copies<br>
+Boyfriend In A Cult<br>
+Contact With Other Worlds, 1<br>
+Enter the Para-Paranormal<br>
+Songs of Bleak College<br>
+The English Bleaks<br>
+<br>
+[-] Floaters, the<br>
+Boyfriend In A Cult<br>
+Personal Flight<br>
+<br>
+[-] Fort, Charles<br>
+The Principle of Continuity<br>
+<br>
+[-] Fudd, Elmer<br>
+The Duck-Rabbit<br>
+<br>
+[-] Furst, Gabby<br>
+Bleak College Days<br>
+<br>
+[-] Geist, Mr.<br>
+Nederland<br>
+<br>
+[-] Gell-Mann, Murray<br>
+1963<br>
+	<br>
+[-] Gerer, Nathalie<br>
+Rowland's Song<br>
+</p>
+</div> 
+<div style="width:33%;"> 
+<p style="text-align: left;">
+[-] Gerin, Angela<br>
+Rowland's Song<br>
+<br>
+[-] Ghosts<br>
+A Moderate Totality<br>
+Boyfriend In A Cult<br>
+I'm Crushing Your Head<br>
+McFail's Cave, 1<br>
+McFail's Cave, 2<br>
+Naturalism and the Supernatural<br>
+Rowland's Song<br>
+San Francisco, City of Ghosts, 1<br>
+San Francisco, City of Ghosts, 3<br>
+Summerland, About<br>
+Half A Novel<br>
+The Gentrification Rag<br>
+The Richard Ente Period, 1<br>
+The Silver Age<br>
+Thebes, 2<br>
+<br>
+[-] Gladwin, Katy<br>
+Low-Flying Stars, 1<br>
+<br>
+[-] Goldzing, Lance<br>
+Rowland's Song<br>
+<br>
+[-] Great Disappointment, The<br>
+San Francisco, City of Ghosts, 3<br>
+The Great Disappointment, 1<br>
+<br>
+[-] Great Fire of London, The (novel)<br>
+For the Love of God, Montresor!<br>
+The Seventeenth Man on the Moon<br>
+</p>
+</div>
+<div style="width:33%;"> 
+<p style="text-align: left;">
+[-] Greylock (mountain)<br>
+The Whiteness of the Hill<br>
+<br>
+[-] Halbstarker, Werner<br>
+Bleak College Days<br>
+<br>
+[-] Hartley, Hal<br>
+Epigraphs<br>
+<br>
+[-] Heap, Hugh<br>
+Low-Flying Stars, 1<br>
+Nederland<br>
+<br>
+[-] Herring, Augustus<br>
+Lost Aviators, 6<br>
+<br>
+[-] Herzog, Werner<br>
+Epigraphs<br>
+<br>
+[-] Ho, Admiral<br>
+Nederland<br>
+<br>
+[-] Hopscotch (novel)<br>
+The Seventeenth Man on the Moon<br>
+<br>
+[-] Hum, Gautier del<br>
+Rowland's Song<br>
+<br>
+[-] Hutchinson, Anne<br>
+Anne Hutchinson<br>
+Anne's Children<br>
+The Burning of Bleak College<br>
+The Hutch<br>
+</p>
+</div>
+</div>
+
 &nbsp;
-[-] Fish
-Ablette
-Books and Copies
-Boyfriend In A Cult
-Contact With Other Worlds, 1
-Enter the Para-Paranormal
-Songs of Bleak College
-The English Bleaks
-&nbsp;
-[-] Floaters, the
-Boyfriend In A Cult
-Personal Flight
-&nbsp;
-[-] Fort, Charles
-The Principle of Continuity
-&nbsp;
-[-] Fudd, Elmer
-The Duck-Rabbit
-&nbsp;
-[-] Furst, Gabby
-Bleak College Days
-&nbsp;
-[-] Geist, Mr.
-Nederland
-&nbsp;
-[-] Gell-Mann, Murray
-1963
-&nbsp;
-[-] Gerer, Nathalie
-Rowland's Song
-&nbsp;
-[-] Gerin, Angela
-Rowland's Song
-&nbsp;
-[-] Ghosts
-A Moderate Totality
-Boyfriend In A Cult
-I'm Crushing Your Head
-McFail's Cave, 1
-McFail's Cave, 2
-Naturalism and the Supernatural
-Rowland's Song
-San Francisco, City of Ghosts, 1
-San Francisco, City of Ghosts, 3
-Summerland, About  
-Half A Novel
-The Gentrification Rag
-The Richard Ente Period, 1
-The Silver Age
-Thebes, 2
-&nbsp;
-[-] Gladwin, Katy
-Low-Flying Stars, 1
-&nbsp;
-[-] Goldzing, Lance
-Rowland's Song
-&nbsp;
-[-] Great Disappointment, The 
-San Francisco, City of Ghosts, 3
-The Great Disappointment, 1
-&nbsp;
-[-] Great Fire of London, The (novel)
-For the Love of God, Montresor!
-The Seventeenth Man on the Moon
-&nbsp;
-[-] Greylock (mountain)
-The Whiteness of the Hill
-&nbsp;
-[-] Halbstarker, Werner
-Bleak College Days
-&nbsp;
-[-] Hartley, Hal
-Epigraphs
-&nbsp;
-[-] Heap, Hugh
-Low-Flying Stars, 1
-Nederland
-&nbsp;
-[-] Herring, Augustus
-Lost Aviators, 6
-&nbsp;
-[-] Herzog, Werner
-Epigraphs
-&nbsp;
-[-] Ho, Admiral
-Nederland
-&nbsp;
-[-] Hopscotch (novel)
-The Seventeenth Man on the Moon
-&nbsp;
-[-] Hum, Gautier del
-Rowland's Song
-&nbsp;
-[-] Hutchinson, Anne
-Anne Hutchinson
-Anne's Children
-The Burning of Bleak College
-The Hutch
-&nbsp;
-[-] Hypertext
-An Interview With The Author Of Luminous Airplanes, by Paul La Farge
-Choose Your Own Adventure
-For Years
-For the Love of God, Montresor!
-Immersive Text
-Patriot Day
-Some Definitions
-The Entrance to McFail's Cave
-The Failure Theme
-The Seventeenth Man on the Moon
-The Silver Age
+
+<div style="width: 100%; display: flex;">
+<div style="width: 33%;"> 
+<p style="text-align: left;">
+[-] Hypertext<br>
+An Interview With The Author Of Luminous Airplanes, by Paul La Farge<br>
+Choose Your Own Adventure<br>
+For Years<br>
+For the Love of God, Montresor!<br>
+Immersive Text<br>
+Patriot Day<br>
+Some Definitions<br>
+The Entrance to McFail's Cave<br>
+The Failure Theme<br>
+The Seventeenth Man on the Moon<br>
+The Silver Age<br>
+<br>
+[-] Immersive Text<br>
+An Interview With The Author Of Luminous Airplanes, by Paul La Farge<br>
+For Years<br>
+Immersive Text<br>
+Patriot Day<br>
+The Failure Theme<br>
+The Silver Age<br>
+<br>
+[-] Infinite Copy<br>
+Books and Copies<br>
+Flint Ridge<br>
+Help!<br>
+Lucas<br>
+McFail's Cave, 3<br>
+Patriot Day<br>
+</p>
+</div> 
+<div style="width:33%;"> 
+<p style="text-align: left;">
+</div>
+<div style="width:33%;"> 
+</div>
+</div>
+
 [[(B.–––.–59) USENET – netnews for everyone, Jenny A. Fristrup, 1. Juli 1994|→ (B.–––.–59) USENET: netnews for everyone, Jenny A. Fristrup, 1. Juli 1994]]
 [[(E.–––.167) Big Brother Second Life (BBSL) Diary, Gideon Television, Dezember 2006|→ (E.–––.167) Big Brother Second Life (BBSL) Diary, Gideon Television, Dezember 2006]]
-[-] Immersive Text
-An Interview With The Author Of Luminous Airplanes, by Paul La Farge
-For Years
-Immersive Text
-Patriot Day
-The Failure Theme
-The Silver Age
-&nbsp;
-[-] Infinite Copy
-Books and Copies
-Flint Ridge
-Help!
-Lucas
-McFail's Cave, 3
-Patriot Day
+
 &nbsp;
 <p style="text-align: right;">« back | page 3 of 7 | next »</p>
 &nbsp;

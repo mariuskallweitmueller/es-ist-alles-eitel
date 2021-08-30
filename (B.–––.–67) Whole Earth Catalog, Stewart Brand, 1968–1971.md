@@ -54,15 +54,14 @@ The existence of more than one universe is impossible, by definition.<br>
 </div>
 
 &nbsp;
-So, by an interesting coincidence, the distances between the stars in interstellar space, relative to their diameters, are just about the same as the distances between the atoms and molecules in interstellar space, relative to _their_ diameters. Interstellar space is as empty as a cubical building, 60 miles long, 60 miles wide, and 60 miles high, containing a single grain of sand.
+So, by an interesting coincidence, the distances between the stars in interstellar space, relative to their diameters, are just about the same as the distances between the atoms and molecules in interstellar space, relative to <i>their</i> diameters. Interstellar space is as empty as a cubical building, 60 miles long, 60 miles wide, and 60 miles high, containing a single grain of sand.
 <p style="text-align: center; font-size: 2em;">·</p>
 
-Taken at face value, the legend suggests that contact occurred between human beings and a non-human civilization of immense powers on the shores of the Persian Gulf, perhaps near the site of the ancient Sumerian city of Eridu, and in the fourth millenium B.C. or earlier. There are three different but cross-referenced accounts of the Apkpliu dating from classical times. 
+Taken at face value, the legend suggests that contact occurred between human beings and a non-human civilization of immense powers on the shores of the Persian Gulf, perhaps near the site of the ancient Sumerian city of Eridu, and in the fourth millenium B.C. or earlier. There are three different but cross-referenced accounts of the <span style="text-decoration: underline;">Apkpliu</span> dating from classical times. 
 [[(B.–68.–––) Intelligent Life in the Universe, Carl Sagan; I.S. Shklovskii, 1. November 1984,ISBN 10 0816279136.jpeg|← (B.–68.–––) Intelligent Life in the Universe, Carl Sagan/I.S. Shklovskii, 1. November 1984, ISBN 10: 0816279136]]
 <p style="text-align: center; font-size: 2em;">·</p>
 
-But how can a natural satellite have such a low density? The material of which it is made must have a certain amount of rigidity, so that cohesive forces will be stronger than the gravitational tidal forces of Mars, which will tend to disrupt the satellite.  
-Such rigidity would ordinarily exclude densities below about 0.1 gm cm\-3. Thus, only one possibility remains. Could Phobos be indeed rigid, on the outside—but hollow in the inside? A natural satellite cannot be a hollow object. Therefore, we are led to the possibility that Phobos—and possibly Deimos as well—may be artificial satellites of Mars. 
+But how can a natural satellite have such a low density? The material of which it is made must have a certain amount of rigidity, so that cohesive forces will be stronger than the gravitational tidal forces of Mars, which will tend to disrupt the satellite. Such rigidity would ordinarily exclude densities below about 0.1 gm cm\-3. Thus, only one possibility remains. Could Phobos be indeed rigid, on the outside—but hollow in the inside? A natural satellite cannot be a hollow object. Therefore, we are led to the possibility that Phobos—and possibly Deimos as well—may be artificial satellites of Mars. 
 <p style="text-align: center; font-size: 2em;">·</p>
 
 Radio astronomers may be interested to know that the so-called "brightness temperature" of the Earth at television wavelengths is some hundreds of millions of degrees. This is 100 times greater than the radio brightness of the sun at comparable wavelengths, during a period of low sunspot activity.

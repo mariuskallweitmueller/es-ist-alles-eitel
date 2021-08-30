@@ -100,7 +100,7 @@ Keywords: [Kryokonservierung, Einfrieren, Operation, Medizin]
 22:42 hrs The Ziegler case was too heavy to lift out of the delivery van. Removal of the dry ice was suggested.
 22:45 hrs Dry ice was removed from the Ziegler case. The case was then withdrawn from the van and rolled into the PCB on a furniture dolly.
 22:48 hrs The pod was cooled with nitrogen vapor. The patient was lifted from the Ziegler case with a hoist.
-[[(D.138.–––) Grafik des Ganzkörper Dewarvon Patient A-1049, Alcor, 23. März 1990.gif|← (D.138.–––) Grafik des Ganzkörper Dewar von Patient A-1049, Alcor, 23. März 1990]]
+[[(D.138.–––) Grafik des Ganzkörper Dewarvon Patient A-1049, Alcor, 23. März 1990.gif|→ (D.138.–––) Grafik des Ganzkörper Dewar von Patient A-1049, Alcor, 23. März 1990]]
 
 22:51 hrs The patient was suspended over the pod; the dry ice and packing were cleared.
 22:52 hrs The patient was observed to be frozen with his legs slightly separated. There was also evidence of scalp removal.
